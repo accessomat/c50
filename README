@@ -1,0 +1,5 @@
+cheetah_c50.py used for some communication with device
+generator.py generates a .hdr db file out of GatsoCam30_12_12_csv.csv file
+log.txt is a list of mapped enums, any one is welcome to keep on looking for the speed enforced by aircraft enum
+the go folder is a .hdr db parser written in go. and contains a .hdr sample. 
+
